@@ -36,4 +36,6 @@
 >
 > <em> Обменялись опытом с [Владиславом Струниным](https://github.com/struninvs)
 >
-> <em> В результате получилось переработать классификацию и улучшить качество решения [late-submission.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/late-submission.ipynb)
+> <em> В результате получилось переработать классификацию и улучшить качество решения
+>
+> <em> Переработанная и дополненная тетрадка здесь [late-submission.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/late-submission.ipynb)
