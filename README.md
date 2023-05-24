@@ -31,3 +31,8 @@
 - train.csv тренировочная выборка с соответствующими образцами
 - test.csv тестовая выборка, для которой надо найти соответствие
 - answer_sample.csv образец предсказаний
+
+>### <em>Дополнение
+>
+> <em> Обменялись опытом с [Владиславом Струниным](https://github.com/struninvs)
+> <em> Добавили обновленную переработанную тетрадку [late-submission.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/late-submission.ipynb)
