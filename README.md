@@ -34,7 +34,7 @@
 
 ## Результат
 
-Основная тетрадка с описанием проекта и решением, которое принимало участие в соревновании на кагле [actual.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/actual.ipynb)
+Основная тетрадка [actual.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/actual.ipynb) с описанием проекта и решением, которое принимало участие в соревновании на кагле.
 
 
 >## <em>Дополнение
