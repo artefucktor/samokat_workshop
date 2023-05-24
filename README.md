@@ -34,8 +34,6 @@
 
 >### <em>Дополнение
 >
-> <em> Обменялись опытом с [Владиславом Струниным](https://github.com/struninvs)
+> <em> Обменялись опытом с [Владиславом Струниным](https://github.com/struninvs). В результате получилось переработать классификацию и улучшить решение.
 >
-> <em> В результате получилось переработать классификацию и улучшить качество решения
->
-> <em> Переработанная и дополненная тетрадка здесь [late-submission.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/late-submission.ipynb)
+> <em> Обновленная дополненная тетрадка здесь [late-submission.ipynb](https://github.com/artefucktor/samokat_workshop/blob/main/late-submission.ipynb)
